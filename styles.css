@@ -737,7 +737,7 @@ footer{
     margin-left: -7rem;
   }
   .hero-section-left{
-    margin-left: -18rem;
+    margin-left: -50rem;
   }
   .hero-section-right{
     width: 300px;
@@ -746,7 +746,7 @@ footer{
   .hero-section-sub-heading{
     width: 345px;
   }
-  .user-image{
+  .user-image-2{
     width:250px;
   }
   .skill-heading{
@@ -778,5 +778,8 @@ footer{
   }
   .faded-text-1{
     opacity: 0;
+  }
+  .hooter{
+    width: 300px;
   }
 }
