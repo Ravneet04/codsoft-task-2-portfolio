@@ -715,7 +715,9 @@ footer{
 .link-wrapper div a:hover{
   color:var(--bgOrange);
 }
-
+.link-wrapper-2{
+  opacity: 0;
+}
 .icon-wrapper{
   display:flex;
   gap:1rem;
@@ -782,4 +784,18 @@ footer{
   .hooter{
     width: 300px;
   }
+  .hello-1{
+    margin-top: -10rem;
+  }
+  .link-wrapper{
+    opacity: 1;
+  }
+  .link-wrapper-2{
+    opacity: 1;
+    margin-right: 76rem;
+    margin-left: -13rem;
+    margin-bottom: -2rem;
+    display: flex;
+    gap: 26px;
 }
+  }
